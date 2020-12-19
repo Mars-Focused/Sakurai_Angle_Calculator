@@ -15,7 +15,7 @@
 //This will keep Sakurai Angle Calculator relevant even when the angle changes, or new platform fighters come out.
 
 knockback = 0;
-
+//lowerLimit and upperLimit should be changed to growthPoint and ShelfPoint
 lowerLimit = 60;
 minAngle = 0;
 
